@@ -1,0 +1,52 @@
+UI_FR = {
+
+    UI_Computer_ListCategory = "Disque de jeu vidéo",
+
+    UI_Computer_FunSpeech_0 = "Quel chef-d'oeuvre absolu !",
+    UI_Computer_FunSpeech_1 = "Mec, j'adore ce jeu !",
+    UI_Computer_FunSpeech_2 = "Ah ! J't'ai eu !",
+    UI_Computer_FunSpeech_3 = "Mais quelle putain d'IA !",
+    UI_Computer_FunSpeech_4 = "Est-ce que je viens pas de trouver un secret là ?",
+    UI_Computer_FunSpeech_5 = "Oh merde, le plantage !",
+    UI_Computer_FunSpeech_6 = "Tain, c'est trop répétitif pour avoir si peu d'XP !",
+    UI_Computer_FunSpeech_7 = "Je devrais probablement ajouter des mods à ce jeu !",
+    UI_Computer_FunSpeech_8 = "Bouahaha OUAIIII !",
+    UI_Computer_FunSpeech_9 = "Voila, ça c'est un jeu amusant !",
+    UI_Computer_FunSpeech_10 = "Oh la vache, ce que c'est dur !",
+    UI_Computer_FunSpeech_11 = "Je me rappelle pas les codes de triche !",
+    UI_Computer_FunSpeech_12 = "Des graphismes impressionnants !",
+    UI_Computer_FunSpeech_13 = "C'est tellement relaxant...",
+    UI_Computer_FunSpeech_14 = "Des mécaniques de jeu géniales !",
+    UI_Computer_FunSpeech_15 = "Encore ?! Mais c'est quoi cette merde !",
+    UI_Computer_FunSpeech_16 = "Allez, putain de bug !",
+    UI_Computer_FunSpeech_17 = "Bordel, Ouais !",
+    UI_Computer_FunSpeech_18 = "JOLIII !!",
+    UI_Computer_FunSpeech_19 = "La première fois que je vois ça !",
+    UI_Computer_FunSpeech_20 = "Woah ! Incroyable !",
+    UI_Computer_FunSpeech_21 = "Je pourrais y jouer toute la journée !",
+    UI_Computer_FunSpeech_22 = "Je pourrais bien y jouer toute la journée !",
+    UI_Computer_FunSpeech_23 = "J'avais presque oublié que c'était l'apocalypse en ce moment !",
+    UI_Computer_FunSpeech_24 = "ENFIN !",
+    UI_Computer_FunSpeech_25 = "Aller, je devrais probablement sauvegarder maintenant !",
+
+    UI_Computer_HungrySpeech_0 = "Argh, j'ai trop faim pour ça !",
+    UI_Computer_HungrySpeech_1 = "Je devrais vraiment jouer... après avoir mangé quelque chose !",
+    UI_Computer_HungrySpeech_2 = "J'arrive pas à me concentrer, j'ai trop faim !",
+
+    UI_Computer_ThirstySpeech_0 = "Argh, j'ai trop soif pour ça !",
+    UI_Computer_ThirstySpeech_1 = "Je devrais vraiment jouer... après avoir bu quelque chose !",
+    UI_Computer_ThirstySpeech_2 = "J'arrive pas à me concentrer, j'ai trop soif !",
+
+    UI_Computer_TiredSpeech_0 = "Argh, Je suis trop fatigué pour ça !",
+    UI_Computer_TiredSpeech_1 = "Je devrais vraiment jouer... après avoir dormi !",
+    UI_Computer_TiredSpeech_2 = "J'vois presque rien à l'écran... trop de fatigue !",
+
+    UI_Computer_PlayAgainSpeech_0 = "Aller, on rejoue à %1 encore une fois !",
+    UI_Computer_PlayAgainSpeech_1 = "Jouons à %1 un peu plus !",
+    UI_Computer_PlayAgainSpeech_2 = "%1 est mon jeu favori !",
+
+    UI_Computer_PlayCompleteSpeech_0 = "Ouai ! J'ai fini le jeu !",
+    UI_Computer_PlayCompleteSpeech_1 = "Wow, cette fin était super !",
+    UI_Computer_PlayCompleteSpeech_2 = "C'était vraiment un jeu excellent !",
+
+}
