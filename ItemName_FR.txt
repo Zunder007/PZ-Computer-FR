@@ -1,0 +1,3 @@
+ItemName_FR = {
+	ItemName_Computer.Disc_Game = "Disque de jeu vidéo",
+}
